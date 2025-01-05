@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog Post 1\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 2\n\n\n\n\n\n\n\n\n\n\n\nJan 2, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/blogpost1.html",
+    "href": "blog/blogpost1.html",
+    "title": "Blog Post 1",
+    "section": "",
+    "text": "Hi"
+  },
+  {
+    "objectID": "blog/blogpost2.html",
+    "href": "blog/blogpost2.html",
+    "title": "Blog Post 2",
+    "section": "",
+    "text": "What’s up"
   }
 ]
