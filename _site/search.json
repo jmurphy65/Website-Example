@@ -9,16 +9,16 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "Blog",
+    "title": "Academic Reading",
     "section": "",
-    "text": "Blog Post 1\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBlog Post 2\n\n\n\n\n\n\n\n\n\n\n\nJan 2, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better by Jennifer Pahlka\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRedistributing the Poor: Jails, Hospitals, and the Crisis of Laws and Fiscal Austerity by Armando Lara-Millan\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/blogpost1.html",
     "href": "blog/blogpost1.html",
-    "title": "Blog Post 1",
+    "title": "Redistributing the Poor: Jails, Hospitals, and the Crisis of Laws and Fiscal Austerity by Armando Lara-Millan",
     "section": "",
-    "text": "Hi"
+    "text": "Redistributing the Poor\n\n\nThoughts on the book"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/blogpost2.html",
+    "href": "blog/blogpost2.html",
+    "title": "Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better by Jennifer Pahlka",
+    "section": "",
+    "text": "!Recoding America\n\nRecoding America: Why Government Is Failing in the Digital Age and How We Can Do Better by Jennifer Pahlka\nThoughts on the book"
   }
 ]
