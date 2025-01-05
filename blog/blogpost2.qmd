@@ -1,6 +1,8 @@
 ---
-title: "Blog Post 2"
-date: 2025-01-02
+title: "Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better by Jennifer Pahlka"
+date: 2024-04-01
 ---
 
-What's up
+![](RA.jpg){height=500px}
+
+Thoughts on the book

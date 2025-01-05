@@ -1,4 +1,6 @@
 ---
-title: "Blog"
-listing: true
+title: "Academic Reading List"
+listing:
+  type: table
+  fields: [date,title]
 ---
