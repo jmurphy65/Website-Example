@@ -1,5 +1,5 @@
 ---
-title: "Jackson Murphy"
+title: " "
 ---
 
 This is a Quarto website.
